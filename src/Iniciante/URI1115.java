@@ -2,7 +2,7 @@ package Iniciante;
 
 import java.util.Scanner;
 
-public class Exer1115 {
+public class URI1115 {
 	
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

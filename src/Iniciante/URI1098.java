@@ -2,7 +2,7 @@ package Iniciante;
 
 import java.text.DecimalFormat;
 
-public class Exer1098 {
+public class URI1098 {
 
 	public static void main(String[] args) {
 		

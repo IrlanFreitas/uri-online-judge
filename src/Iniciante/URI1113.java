@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Exer1113 {
+public class URI1113 {
 
 	public static List<String> resultado;
 	

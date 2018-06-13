@@ -3,7 +3,7 @@ package Iniciante;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class Exer1117 {
+public class URI1117 {
 	
 	public static void main(String[] args) {
 		

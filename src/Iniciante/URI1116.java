@@ -3,7 +3,7 @@ package Iniciante;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class Exer1116 {
+public class URI1116 {
 
 	public static Double[] resultado;
 	public static DecimalFormat formatador = new DecimalFormat("#.#");

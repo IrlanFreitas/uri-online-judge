@@ -2,7 +2,7 @@ package Iniciante;
 
 import java.util.Scanner;
 
-public class Exer1099 {
+public class URI1099 {
 
 	public static int[] resultado;
 
