@@ -35,6 +35,7 @@ hs_err_pid*
 ## ignoring target file
 target/
 .metadata
+.settings
 .recommenders
 
 # End of https://www.gitignore.io/api/java,java-web,code-java
