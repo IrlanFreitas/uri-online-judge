@@ -13,6 +13,11 @@ factoryConfiguration.json
 # Compiled class file
 *.class
 
+# Idea folders
+.metadata
+.recommenders
+.idea
+
 # Log file
 *.log
 
